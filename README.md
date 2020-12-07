@@ -12,17 +12,17 @@ Our software will reintroduce event advertising in a more flexible, accessible w
 
 Why use this software?
 
-■ We aim to centralize events allowing administrators and organization presidents to post their events.
+  ■ We aim to centralize events allowing administrators and organization presidents to post their events.
 
-■ RSVP to ensure that your spot is secured.
+  ■ RSVP to ensure that your spot is secured.
 
-■ Avoid excessive emails from the school.
+  ■ Avoid excessive emails from the school.
 
-■ Get the categories of events of your desire
+  ■ Get the categories of events of your desire
 
-■ By seeing an event posted in advance, students will be able to allot time within their schedule, ensuring they can attend their desired events.
+  ■ By seeing an event posted in advance, students will be able to allot time within their schedule, ensuring they can attend their desired events.
 
-■ Allow us to schedule accordingly
+  ■ Allow us to schedule accordingly
 
 Future Plans
 
